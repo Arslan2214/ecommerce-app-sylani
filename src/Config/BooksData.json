@@ -1,0 +1,66 @@
+[
+  {
+    "name": "A Programmer Guide to Computer Science",
+    "author": "Dr. William M Springer",
+    "reviews": 42,
+    "image": "https://m.media-amazon.com/images/I/61fFh20AhQL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 19.99,
+    "description": "Description of Book 1"
+  },
+  {
+    "name": "Tricky RIddles",
+    "author": "Author 2",
+    "reviews": 38,
+    "image": "https://m.media-amazon.com/images/I/71rg71zWUkL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 24.99,
+    "description": "Description of Book 2"
+  },
+  {
+    "name": "AI Revalution in Medican",
+    "author": "Author 3",
+    "reviews": 55,
+    "image": "https://m.media-amazon.com/images/I/71pfpwxBISL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 14.99,
+    "description": "Description of Book 3"
+  },
+  {
+    "name": "The ChatGPT Millioner",
+    "author": "Author 4",
+    "reviews": 27,
+    "image": "https://m.media-amazon.com/images/I/61Yu7zVGD0L._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 29.99,
+    "description": "Description of Book 4"
+  },
+  {
+    "name": "Elon Musk",
+    "author": "Author 5",
+    "reviews": 63,
+    "image": "https://m.media-amazon.com/images/I/814mI0-rkxL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 12.99,
+    "description": "Description of Book 5"
+  },
+  {
+    "name": "Microsoft Office 365 Bible ",
+    "author": "Author 6",
+    "reviews": 48,
+    "image": "https://m.media-amazon.com/images/I/610oHc02DLL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 22.99,
+    "description": "Description of Book 6"
+  },
+  {
+    "name": "Carrier Plannings for Teen",
+    "author": "Author 7",
+    "reviews": 31,
+    "image": "https://m.media-amazon.com/images/I/718LXgby8uL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 16.99,
+    "description": "Description of Book 7"
+  },
+  {
+    "name": "The Age Of AI",
+    "author": "Author 8",
+    "reviews": 39,
+    "image": "https://m.media-amazon.com/images/I/71zaLrygEQL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": 18.99,
+    "description": "Description of Book 8"
+  }
+]
