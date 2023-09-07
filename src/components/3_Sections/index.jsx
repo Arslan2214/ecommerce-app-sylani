@@ -46,7 +46,7 @@ function index() {
           initial main objective <br /> was to ensure pure water and affordable
           irrigation.
         </p>
-        <div className="bg-white rounded-full px-3 py-1 md:px-4 md:py-2 my-8 space-x-3">
+        <div className="bg-white rounded-full pl-5 pr-3 py-1 md:pl-8 md:pr-4 md:py-2 my-8 space-x-3">
             <input type="text" placeholder="Enter Email ..." className=" bg-transparent outline-none text-slate-500" />
             <Btn_Red text="Subscribe" m="100" />
         </div>
